@@ -294,5 +294,5 @@ DeepCSAT demonstrates how machine learning and natural language processing can b
 ---
 
 # 👩‍💻 Author
-
+MANSI SONI
 Project developed as part of an academic machine learning project on **Customer Satisfaction Prediction for E-Commerce Support Systems**.
